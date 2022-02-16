@@ -1,0 +1,16 @@
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.exe
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.deps.json
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.runtimeconfig.json
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.runtimeconfig.dev.json
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.dll
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\ref\Parejas.dll
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\bin\Debug\net5.0\Parejas.pdb
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.csproj.AssemblyReference.cache
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.AssemblyInfoInputs.cache
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.AssemblyInfo.cs
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.dll
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\ref\Parejas.dll
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.pdb
+C:\Users\1daw3\nuevo678\Examen2EVPruebasUnitarias2\Parejas\obj\Debug\net5.0\Parejas.genruntimeconfig.cache
